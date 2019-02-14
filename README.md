@@ -10,9 +10,10 @@ Data Science - Acámica
 
 **Clases:** Martes & Jueves, 7PM a 22PM UTC-3
 
-**Mentores:** 
-- [@leferrad](https://github.com/leferrad) (Leandro Ferrado)
-- [@javierlezama]() (Javier Lezama)
+**Profesores:** 
+- Leandro Ferrado (ljferrado@gmail.com) 
+- Javier Lezama (javitolz@gmail.com)
+- Valentina Rubiolo (valenrubiolo@gmail.com)
 
 
 ### Recursos
@@ -21,6 +22,14 @@ Las clases a seguir en modo online se encuentran en la [web oficial de Acámica]
 
 
 El listado de links y recursos adicionales de interés relacionados al curso se irá agregando en `docs/recursos.md`.
+
+### Comunicación
+
+Aquí se listan los canales / herramientas principales de comunicación:
+
+- **Slack:** https://acamica-presencial-ds.slack.com
+- **Trello:** Proximamente...
+- **Drive:** Proximamente...
 
 
 ### Tipos de proyectos
