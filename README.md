@@ -34,7 +34,24 @@ Aquí se listan los canales / herramientas principales de comunicación:
 
 ### Tipos de proyectos
 
-...
+- **E1: Exploratory Data Analysis (EDA)**
+    - Introducción a Python
+    - Manejo de datos con Pandas
+    - Manejo de arreglos con Numpy
+    - Visualización de resultados mediante Matplotlib y Seaborn
+    - Análisis de datos tabulares
+    - Análisis de distribuciones
+    - Exploración y entendimiento de datos
+- **E2: Data Engineering**
+    - ETLs y data pipelines con Scikit-learn y Pandas
+    - Data cleansing
+    - Data imputation
+    - Feature engineering
+- **E3: Machine Learning for Regression**
+- **E4: Fine-tune Machine Learning models**
+- **E5: Machine Learning for NLP**
+- **E6: Recommender System**
+- **E7: Deploy a model on the cloud**
 
 ### Dependencias
 
