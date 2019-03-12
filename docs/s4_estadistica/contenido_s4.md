@@ -1,7 +1,7 @@
 Acámica DS-COR3 - Semana 4
 ==========================
                       
-- Repaso Estadística: para podes hacer exploración (entrega 1)
+- Repaso Estadística: para poder hacer exploración (entrega 1)
   - Tipos de datos: numéricos, discretos, continuos, categóricos, ordinales.
   - Tipos de distribuciones: uniforme, normal / gaussiana, exponencial, poisson.
   - Descriptores de distribuciones: media, mediana, moda, varianza, desvío estándar, cuantiles.
