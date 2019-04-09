@@ -12,7 +12,7 @@ Data Science - Acámica
 
 **Profesores:** 
 - Leandro Ferrado (ljferrado@gmail.com) 
-- Javier Lezama (javitolz@gmail.com)
+- Javier Lezama (javitolez@gmail.com)
 - Valentina Rubiolo (valenrubiolo@gmail.com)
 
 
