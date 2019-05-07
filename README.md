@@ -48,6 +48,17 @@ Aquí se listan los canales / herramientas principales de comunicación:
     - Data imputation
     - Feature engineering
 - **E3: Machine Learning for Regression**
+    - Lineamientos para ajustar un modelo de ML
+        - Train / test
+        - Modelo vs Optimización
+        - Validación de resultados
+    - Algoritmos de regresión:
+        - Linear Regression
+        - KNN Regressor
+        - Decision Tree
+     - Métricas para validar resultados
+        - Coeficiente R^2, MSE, RMSE  
+      
 - **E4: Fine-tune Machine Learning models**
 - **E5: Machine Learning for NLP**
 - **E6: Recommender System**
