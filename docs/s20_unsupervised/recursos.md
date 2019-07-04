@@ -38,8 +38,40 @@ En esta semana se desarrollan técnicas relacionadas a Aprendizaje No Supervisad
         - MSE (reconstrucción)      
 
 3. **Sistema de recomendaciones**
-    - To be filled...
-    
+    - Algoritmos
+        - Basado en contenido
+            - Modelos de propensidad usuario - producto
+                - Clasificación + Optimización 
+        - Basado en interacciones
+            - Filtro colaborativo
+                - Nearest Neighbors
+                    - Similitud entre vectores de feedback:
+                        - Feedback implicito vs explicito
+                        - Función de similitud: Pearson correlation, Euclidea, etc
+                    - Enfoque:
+                        - User-User
+                            - Problemas con muchos usuarios
+                            - Depende mucho de tener usuarios representativos
+                        - Item-Item
+                - Matrix Factorization: R = U x V
+                    - SVD
+                    - Alternative Least Squares (ALS)
+                    - NMF
+                - Enfoques híbridos
+            - Reinforcement Learning
+                - Exploration vs Exploitation
+                - Q learning
+    - Métricas
+        - Classification metrics (e.g. precision, recall)
+        - Regression metrics (e.g. RMSE)
+        - Normalized Discounted Cumulative Gain (NDCG)
+    - Aspectos a manejar
+        - Cold start: Empezar con poca información para recomendaciones
+        - Adición de usuarios / productos
+        - Feedback explicito suele no ser muy confiable
+        - Los gustos cambian en el tiempo
+        - Distintas personas usando un mismo perfil
+  
 4. **Detección de anomalías**
     - To be filled...
     
@@ -79,4 +111,18 @@ En esta semana se desarrollan técnicas relacionadas a Aprendizaje No Supervisad
     - https://towardsdatascience.com/pca-and-svd-explained-with-numpy-5d13b0d2a4d8
     - http://setosa.io/ev/principal-component-analysis/
     - https://georgemdallas.wordpress.com/2013/10/30/principal-component-analysis-4-dummies-eigenvectors-eigenvalues-and-dimension-reduction/
+- Recommender systems
+    - https://tryolabs.com/blog/introduction-to-recommender-systems/
+    - https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/
+    - https://towardsdatascience.com/recommender-systems-in-practice-cef9033bb23a    
+    - https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-1-algorithms-evaluation-and-cold-start-6f696683d0ed
+    - https://medium.com/@madasamy/introduction-to-recommendation-systems-and-how-to-design-recommendation-system-that-resembling-the-9ac167e30e95
+    - http://blog.findemor.es/2018/02/sistemas-de-recomendacion-en-python/
+    - https://towardsdatascience.com/how-to-build-a-simple-recommender-system-in-python-375093c3fb7d
+    - https://stackabuse.com/creating-a-simple-recommender-system-in-python-using-pandas/
+- Suprise library
+    - https://surprise.readthedocs.io/en/stable/
+    - https://towardsdatascience.com/building-and-testing-recommender-systems-with-surprise-step-by-step-d4ba702ef80b
+    - https://blog.cambridgespark.com/tutorial-practical-introduction-to-recommender-systems-dbe22848392b
+    - https://medium.com/hacktive-devs/recommender-system-made-easy-with-scikit-surprise-569cbb689824
     
